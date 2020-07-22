@@ -275,7 +275,7 @@ function App() {
               <div className="team-member">
                 <img
                   className="mx-auto rounded-circle"
-                  src="assets/img/team/1.jpg"
+                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
                   alt=""
                 />
                 <h4>Kay Garland</h4>
@@ -295,7 +295,7 @@ function App() {
               <div className="team-member">
                 <img
                   className="mx-auto rounded-circle"
-                  src="assets/img/team/2.jpg"
+                  src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
                   alt=""
                 />
                 <h4>Larry Parker</h4>
@@ -315,7 +315,7 @@ function App() {
               <div className="team-member">
                 <img
                   className="mx-auto rounded-circle"
-                  src="assets/img/team/3.jpg"
+                  src="https://images.unsplash.com/photo-1568967729548-e3dbad3d37e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
                   alt=""
                 />
                 <h4>Diana Petersen</h4>
